@@ -6,7 +6,7 @@ AI platform Altilia aggregates, organizes and unifies data into a cohesive datab
   
 ## Overview
 
-Altilia document automation can simplify numerous business processes with unparalleled adaptability and customized solutions designed to simplify complex workloads and streamline end-to-end processes. With tracking tools that can automate reporting, simplified document reviews, supply chain optimization, and comprehensive document processing, [IDP software vendor Altilia](https://www.altilia.ai/platform#ai-agents) offers a full suite of tools to process and support just about any kind of data.
+Altilia document automation can simplify numerous business processes with adaptability and customized solutions designed to simplify complex workloads and streamline end-to-end processes. With tracking tools that can automate reporting, simplified document reviews, supply chain optimization, and comprehensive document processing, [IDP software vendor Altilia](https://www.altilia.ai/platform#ai-agents) offers a full suite of tools to process and support just about any kind of data.
 
 The seamless nature of Altilia’s cloud IDP services makes it easy to integrate AI into businesses of all sizes and types, allowing for greater efficiency with results-driven data, targeted feedback, and [intelligent workflow](https://idp-software.com/capabilities/integration-workflow/). The most complex processes can be automated for maximum operating efficiency and fast ROI. Users will retain ownership of their data, models, and assets, never compromising on security with full data sovereignty on Altilia’s ISO-certified platform.
 
