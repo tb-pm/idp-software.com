@@ -6,7 +6,7 @@ AiMunshi uses AI, deep learning, and natural language processing to extract data
 
 ## Overview
 
-AiMunshi is an intelligent document automation engineered to help companies integrate powerful tools into their workflows through the use of AI, natural language processing, and deep learning. Designed to achieve 99% accuracy, it automates data capture from any kind of business document, including insurance claims, legal contracts, banking forms, invoices, and annual reports.
+AiMunshi is an intelligent document automation engineered to help companies integrate useful tools into their workflows through the use of AI, natural language processing, and deep learning. Designed to achieve 99% accuracy, it automates data capture from any kind of business document, including insurance claims, legal contracts, banking forms, invoices, and annual reports.
 
 Since its founding, AiMunshi has quickly developed a strong reputation for an [innovative approach to document automation](https://aimunshi.ai/the-product), serving industries like finance, banking, legal, and insurance. Thanks to an adaptable framework, it can integrate with existing systems, empowering organizations to enhance operational efficiency and make smarter decisions.
 
