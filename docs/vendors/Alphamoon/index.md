@@ -15,7 +15,7 @@ The [Box Intelligent Content Cloud](https://www.box.com/home) features limitless
 ## Key Features
 
 - **Document Automation and Extraction**: Alphamoon document automation transforms images and documents into text and extracts critical information to store in the cloud.
-- **Continual Learning**: The platform learns as it processes documents to further hone its accuracy, keeping users in the loop to verify and ensure maximum control.
+- **Continual Learning**: The platform learns as it processes documents to further hone its accuracy, keeping users in the loop to verify and ensure control.
 - **Data Export and Integration**: Data can be exported in CSV, XLSX, and other formats and integrated with other tools and systems, including API and Zapier.
 - **Customization**: Ready-made templates for invoices or receipts offer simple plug-and-play options or users can create their own workflows. 
 - **Security**: Sensitive information can be anonymized for compliance and privacy.
