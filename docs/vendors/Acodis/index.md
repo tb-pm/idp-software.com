@@ -6,9 +6,9 @@ Acodis automates the extraction, validation, and restructuring of complex workfl
 
 ## Overview
 
-Acodis is a Swiss IDP company that transforms the way businesses unlock valuable data hidden in unstructured documents. Founded in 2016 by a [team of ETH Zurich graduates](https://www.acodis.io/company/about-us), the company has since evolved into a provider of proven solutions. With an AI-driven, no-code platform that scans digital documents to [extract data](https://idp-software.com/capabilities/), Acodis helps companies reduce manual data entry errors and operational costs.
+Acodis is a Swiss IDP company that aims to improve the way businesses unlock valuable data hidden in unstructured documents. Founded in 2016 by a [team of ETH Zurich graduates](https://www.acodis.io/company/about-us), the company has since evolved into a provider of document processing solutions. With an AI-driven, no-code platform that scans digital documents to [extract data](https://idp-software.com/capabilities/), Acodis helps companies reduce manual data entry errors and operational costs.
 
-With an extensive machine learning engine, Acodis automates complex processes and efficiently categorizes any kind of document that can be converted to a PDF. The platform helps companies of all industries streamline workflows, accelerating digital transformation to unprecedented speeds.
+With an extensive machine learning engine, Acodis automates complex processes and efficiently categorizes any kind of document that can be converted to a PDF. The platform helps companies across all industries streamline workflows, accelerating digital transformation to more efficient speeds.
 
 ## Key Features
 
@@ -22,7 +22,7 @@ With an extensive machine learning engine, Acodis automates complex processes an
 
 ### Invoice processing
 
-Acodis [automates the extraction](https://www.acodis.io/intelligent-document-processing-idp) of key invoice details, such as dates, amounts, and line items, to reduce manual efforts and errors while making payment cycles faster. This minimizes human errors and helps finance teams maintain both a smooth cash flow and an accurate paper trail for future auditing.
+Acodis [automates the extraction](https://www.acodis.io/intelligent-document-processing-idp) of key invoice details, such as dates, amounts, and line items, to reduce manual processing time while making payment cycles faster. This minimizes human errors and helps finance teams maintain both a smooth cash flow and an accurate paper trail for future auditing.
 
 ### Contract management
 
@@ -30,7 +30,7 @@ Acodis [extracts all critical data](https://www.acodis.io/ai-ready-data) from le
 
 ### HR document automation
 
-Acodis transforms [scanned payslips and employee records](https://www.acodis.io/structured-content) into structured data, improving payroll accuracy and reducing administrative workload. HR departments can focus instead on strategic initiatives that improve overall operational efficiency.
+Acodis transforms [scanned payslips and employee records](https://www.acodis.io/structured-content) into structured data, improving payroll accuracy and reducing administrative workload. HR departments can instead focus on strategic initiatives that enhance overall operational efficiency.
 
 ## Technical Specifications
 
@@ -44,12 +44,13 @@ Acodis transforms [scanned payslips and employee records](https://www.acodis.io/
 
 ## Getting Started
 
-To start, new customers typically schedule a free demo through the Acodis website, which includes an initial consultation to understand specific challenges. Most clients can start processing their documents with Acodis within three days of signing up. Then, new customers can access a guided setup for configuring extractions. Comprehensive training support is also available.
+To start, new customers typically schedule a free demo through the Acodis website, which includes an initial consultation to understand specific challenges. Most clients can start processing their documents with Acodis within a few days of signing up. Then, new customers can access a guided setup for configuring extractions. Comprehensive training support is also available.
 
 ## Resources
 
 - [Vendor Website](https://acodis.io/)
-- [Documentation](https://support.acodis.io/api-documentation)
+- [API Documentation Assisted Mode](https://acodis.atlassian.net/wiki/spaces/DOC/pages/389152769/Version+23.x)
+- [API Documentation Expert Mode](https://acodis.atlassian.net/wiki/spaces/DOC/pages/231243777/Expert+Mode)
 
 ## Contact Information
 
