@@ -57,6 +57,5 @@ AlgoDocs offers several options for getting started. Manual uploading is one of 
 
 - Website: [AlgoDocs.com](https://www.algodocs.com/)
 - Headquarters Address: Adalet District, Anadolu Street No: 41 Megapol Tower, floor: 8, 35530 Bayraklı/İzmir, Turkey
-- Social Media: https://www.facebook.com/AlgoDocs
-https://www.linkedin.com/company/algosoftai/
+- Social Media: [Facebook](https://www.facebook.com/AlgoDocs), [LinkedIn](https://www.linkedin.com/company/algosoftai/)
 - Phone: 90 232 700 11 70
