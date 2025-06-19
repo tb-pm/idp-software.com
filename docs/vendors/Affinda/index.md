@@ -1,14 +1,14 @@
 # Affinda
 
-Affinda's powerful AI platform offers a range of IDP solutions, including multilingual OCR, invoice extraction, and resume parsing for a diverse range of file types.
+Affinda's AI platform provides a range of IDP solutions, including multilingual OCR, invoice extraction, and resume parsing for various file types.
 
 ![]()
 
 ## Overview
 
-Affinda is a globally recognized AI company that automates the data extraction process for [more than 100 different types of documents](https://www.affinda.com/use-cases). Headquartered in Melbourne, Australia, it has a global team working across Asia-Pacific, Europe, and North America to support hundreds of customers with a wide range of needs.
+Affinda is an AI technology company that automates the data extraction process for [more than 100 different types of documents](https://www.affinda.com/use-cases). Headquartered in Melbourne, Australia, it has a global team working across Asia-Pacific, Europe, and North America to support hundreds of customers with a wide range of needs.
 
-Today, Affinda leverages over 10 years of IP in document reconstruction, utilizing the latest advancements in AI technology, [natural language processing](https://idp-software.com/capabilities/natural-language-processing/), and deep learning. Its agile, API-driven architecture and out-of-the-box solutions give enterprises in dozens of industries the power to cut processing times and reduce overall operational costs. The Affinda team also prides itself in continually enhancing its data security standards.
+Today, Affinda leverages over 10 years of IP in document reconstruction, utilizing the latest advancements in AI technology, [natural language processing](https://idp-software.com/capabilities/natural-language-processing/), and deep learning. Its agile, API-driven architecture and built-in capabilities help enterprises in dozens of industries cut processing times and reduce overall operational costs. The Affinda team also prides itself on continually enhancing its data security standards.
 
 ## Key Features
 
@@ -22,15 +22,15 @@ Today, Affinda leverages over 10 years of IP in document reconstruction, utilizi
 
 ### Recruitment automation
 
-Affinda automates the recruitment process by parsing resumes and extracting all the useful information, drastically reducing screening times and improving matching accuracy. This allows HR teams to reduce administrative overhead and make the hiring process more efficient.
+Affinda automates the recruitment process by parsing resumes and extracting all the useful information, reducing screening times and improving matching accuracy. This enables HR teams to reduce administrative overhead and streamline the hiring process.
 
 ### Invoice and financial document processing
 
-In all industries, enterprises can automate the processing of invoices and other related financial documents. Eliminating the need for manual data entry accelerates payment cycles and reduces the likelihood of accounting errors, improving financial operations in every way.
+In all industries, enterprises can automate the processing of invoices and other related financial documents. Eliminating the need for manual data entry accelerates payment cycles and reduces the likelihood of accounting errors, improving financial operations and workflow efficiency.
 
 ### Legal document analysis
 
-Affinda deploys AI to efficiently review contracts and automatically extract critical dates and clauses from contracts and other legal documents. This improves due diligence for legal departments and ensures a quicker turnaround time in review processes.
+Affinda uses AI-based tools to review contracts and automatically extract critical dates and clauses from contracts and other legal documents. This improves due diligence for legal departments and ensures a quicker turnaround time in review processes.
 
 ## Technical Specifications
 
@@ -39,7 +39,7 @@ Affinda deploys AI to efficiently review contracts and automatically extract cri
 | Deployment Options     | Cloud                                                       |
 | API                    | REST                                                        |
 | Supported Languages    | English, Spanish, French, German, others                    |
-| Document Formats       | PDF, DOCX, Images, dozens of others                         |
+| Document Formats       | PDF, DOCX, image formats (JPG, PNG, TIFF), and others       |
 
 ## Getting Started
 
