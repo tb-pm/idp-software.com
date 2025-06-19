@@ -6,7 +6,7 @@ AlgoDocs harnesses the power of artificial intelligence to scan documents and ex
 
 ## Overview
 
-AlgoDocs is an Intelligent Document Processing (IDP) software vendor that uses Intelligent Character Recognition (ICR) to identify handwritten texts, allowing for maximum accuracy and automation and efficiently converting texts into letter codes for ready use in various applications. 
+AlgoDocs is an Intelligent Document Processing (IDP) software vendor that uses Intelligent Character Recognition (ICR) to identify handwritten texts, allowing for accuracy and automation and efficiently converting texts into letter codes for ready use in various applications. The AI technology can automatically extract key-value pairs for conversion into spreadsheets and other organizational documents.
 
 Although businesses increasingly automate various processes, they still rely on paper and pen for many day-to-day needs. AlgoDocs uses deep learning algorithms that make it possible to digitize handwritten paper documents. With AlgoDocs’ [ICR technology](https://www.algodocs.com/extract-handwritten-text-from-scanned-pdfs-and-images/), businesses can quickly scan paper documents, and AlgoDocs will extract the data, converting it into the desired form, including Excel or JSON. The result is easily searchable and readily editable data: clear, concise, usable text.
 
@@ -15,7 +15,7 @@ Seamlessly import text files from OneDrive, Gmail, Dropbox, and other popular ap
 ## Key Features
 
 - **Document Automation**: Streamlined preprocessing and data extraction that eliminates manual data processing and saves time and expense
-- **Pattern-Based Extraction**: AlgoDocs requires no preset templates and features trainable models for maximum customizability.
+- **Pattern-Based Extraction**: AlgoDocs requires no preset templates and features trainable models for customizability.
 - **Scalability**: ICR technology can process large volumes of data efficiently as needed without the need for extra labor
 - **Seamless Integration**: Software readily integrates with ERP, CRM, HR, and other systems
 - **Security**: AlgoDocs is designed with security in mind and complies with security regulations with encrypted records and state-of-the-art features.
@@ -32,7 +32,7 @@ Law firms depend on data, and while many of their documents are digitized, not a
 
 ### Banking
 
-One of the first industries to adopt OCR, banks are still one of the top users of this technology today. Before OCR, data entry clerks manually keyed in the information from each financial instrument. This was both time- and labor-intensive and prone to errors. AI-based tools like ICR process checks and other financial instruments exponentially faster and dramatically reduce the risk of errors, granting clients access to their funds faster, reducing overhead costs, and boosting bottom lines.
+One of the first industries to adopt OCR, banks are still one of the top users of this technology today. Before OCR, data entry clerks manually keyed in the information from each financial instrument. This was both time- and labor-intensive and prone to errors. AI-based tools like ICR process checks and other financial instruments faster and reduce the risk of errors, granting clients access to their funds faster, reducing overhead costs, and boosting bottom lines.
 
 ## Technical Specifications
 
