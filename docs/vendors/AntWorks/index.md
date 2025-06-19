@@ -6,11 +6,11 @@ AntWorks is a global intelligent document processing company that utilizes AI to
 
 ## Overview
 
-AntWorks' cognitive machine reading (CMR+) provides intelligent document processing. This process works by utilizing six main points: input, pre-processing, document classification, [data extraction](https://idp-software.com/capabilities/extraction/), data enrichment and confidence engine. The only step in this process that involves humans is input, although it does sometimes bring a human into the loop to provide supervised learning and enhancement for Gen-AI and machine learning.
+AntWorks' cognitive machine reading (CMR+) provides intelligent document processing. CMR+ follows a six-stage process: input, pre-processing, document classification, [data extraction](https://idp-software.com/capabilities/extraction/), data enrichment and confidence engine. The only step in this process that involves humans is input, although it does sometimes bring a human into the loop to provide supervised learning and enhancement for Gen-AI and machine learning.
 
-The CMR+ from AntWorks offers tailored solutions for banking and financial services, insurance, manufacturing, retail and the supply chain. They also work with existing Pega cloud environments to provide enterprise scalability, drag and drop, end-to-end automation and centralized decision making. Their CMR+ is HIPAA compliant and GDPR compliant.
+The CMR+ from AntWorks offers tailored solutions for banking and financial services, insurance, manufacturing, retail and the supply chain. The company also works with existing Pega cloud environments to provide enterprise scalability, drag and drop, end-to-end automation and centralized decision making. Its CMR+ is HIPAA compliant and GDPR compliant.
 
-AntWorks was founded in 2015 in London. Since then, they've spread out across Europe, North America and Asia, and they have a [team of more than 200 people] (https://www.ant.works/about/). Their CMR+ can scan through unstructured content such as tables, handwriting and emails. AntWorks' major tech partners include AWS, Google Cloud and Azure. AntWorks has won nine notable awards to date, including Best Intelligent Document Processing (IDP) Solution for Insurance 2022 and Leader in NelsonHall NEAT - Intelligent Automation Platforms 2019.
+AntWorks was founded in 2015 in London. Since then, the company has spread out across Europe, North America and Asia, and it has a [team of more than 200 people](https://www.ant.works/about/). Its CMR+ can scan through unstructured content such as tables, handwriting and emails. AntWorks' major tech partners include AWS, Google Cloud and Azure. AntWorks has won nine notable awards to date, including Best Intelligent Document Processing (IDP) Solution for Insurance 2022 and Leader in NelsonHall NEAT - Intelligent Automation Platforms 2019.
 
 ## Key Features
 
@@ -24,11 +24,11 @@ AntWorks was founded in 2015 in London. Since then, they've spread out across Eu
 
 ### Improves efficiency
 
-When Spark 44/Accenture Interactive needed to improve their efficiency, they turned to AntWorks. It was their goal to not only capture data but also to ensure the data was correct. By choosing CMR+ from AntWorks, they [boosted their efficiency rates by almost 50%] (https://www.ant.works/case-study/).
+When Spark 44/Accenture Interactive needed to improve its efficiency, it turned to AntWorks. The goal was not only to capture data but also to ensure the data was accurate. By choosing CMR+ from AntWorks, it [boosted efficiency rates by almost 50%](https://www.ant.works/case-study/).
 
 ### Greater accuracy
 
-A leading East Asia low-cost airline needed a better way to process their 2,000 monthly invoices. AntWorks provided their CMR+, which includes pattern recognition, machine learning and AI. The company was able to [boost their accuracy by 85%] (https://www.ant.works/case-study/airline-company-slashes-invoice-processing-time/). Additionally, their overall processing time per invoice dropped by 33%.
+A leading East Asia low-cost airline needed a better way to process 2,000 monthly invoices. AntWorks provided its CMR+, which includes pattern recognition, machine learning and AI. The company was able to [boost its accuracy by 85%](https://www.ant.works/case-study/airline-company-slashes-invoice-processing-time/). Additionally, the company's overall processing time per invoice dropped by 33%.
 
 ## Technical Specifications
 
@@ -43,17 +43,17 @@ A leading East Asia low-cost airline needed a better way to process their 2,000 
 
 ## Getting Started
 
-AntWorks offers a free demo. After that, it's time to download the app, modify the build, add the necessary antlets and complete the build. They have a uniquely quick onboarding process that cut City Union Bank's time from [eight days to one hour] (https://www.ant.works/case-study/city-union-bank-reduces-onboarding-time-from-8-days-to-1-hour/).
+AntWorks offers a free demo. After that, it's time to download the app, modify the build, add the necessary antlets and complete the build. City Union Bank cut its onboarding time from [eight days to one hour](https://www.ant.works/case-study/city-union-bank-reduces-onboarding-time-from-8-days-to-1-hour/) by using AntWorks' platform.
 
 ## Resources
 
-- [Vendor Website] (https://www.ant.works/)
-- [Case Studies] (https://www.ant.works/case-study/)
-- [Content Hub] (https://www.ant.works/content-hub/)
+- [Vendor Website](https://www.ant.works/)
+- [Case Studies](https://www.ant.works/case-study/)
+- [Content Hub](https://www.ant.works/content-hub/)
 
 ## Contact Information
 
-- Website: [ant.works/] (https://www.ant.works/)
+- Website: [ant.works/](https://www.ant.works/)
 - Headquarters Address: Acre House, 11-15 William Road, London, United Kingdom NW1 3ER, GB
 - Email: hello@ant.works
 - Phone Number: 800-507-8011
